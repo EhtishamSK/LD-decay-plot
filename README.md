@@ -1,4 +1,4 @@
-This script analyzes linkage disequilibrium (LD) decay using genotyping data from 128 individuals. It processes LD estimates, fits a nonlinear regression model, and calculates the recombination parameter (rho, 4Nr). The script then generates an LD decay plot, adjusting for chromosomal distances and identifying the half-decay distance, a key metric for understanding genetic linkage patterns.
+This script analyzes linkage disequilibrium (LD) decay using genotyping data. It processes LD estimates, fits a nonlinear regression model, and calculates the recombination parameter (rho, 4Nr). The script then generates an LD decay plot, adjusting for chromosomal distances and identifying the half-decay distance, a key metric for understanding genetic linkage patterns.
 
 Key Features:
 Reads and processes TASSEL LD output.
